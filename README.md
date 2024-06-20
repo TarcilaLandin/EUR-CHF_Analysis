@@ -10,7 +10,7 @@ Euro/Swiss Franc (EUR/CHF) Price Relationship: Cointegration Analysis and Time S
 - Johansen cointegration test to investigate long-term relationship between EUR/CHF.
 
 ## 💻 Project
-<a href="https://dashboard-app-tkrf2ldvd3xdwwhwjfp9gf.streamlit.app" target="_blank">View the project in real-time</a>
+<a href="" target="_blank">View the project in real-time</a>
 
 ## 👨‍💻 Libraries Used
 Utilizing **PYTHON** along with the following libraries:
